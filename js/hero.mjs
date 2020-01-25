@@ -65,3 +65,5 @@ Hero.prototype.update = function(){
         this.animations.play(animationName);
     }
 };
+
+export {Hero};

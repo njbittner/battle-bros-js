@@ -1,6 +1,8 @@
+import {Spider} from './spider.mjs';
+import {Hero} from './hero.mjs';
 const LEVEL_COUNT = 2;
 
-PlayState = {};
+let PlayState = {};
 
 PlayState.init = function (data) {
     this.level = (data.level || 0) %  LEVEL_COUNT;
@@ -257,3 +259,5 @@ PlayState._handleInput = function(){
         this.hero.move(0);
     }
 };
+
+export {PlayState as PlayState};

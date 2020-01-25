@@ -35,3 +35,6 @@ Spider.prototype.die = function(){
         this.kill();
     }, this);
 };
+
+
+export {Spider};

@@ -1,3 +1,4 @@
+import {PlayState} from './playstate.mjs';
 window.onload = function () {
     let game = new Phaser.Game(960, 600, Phaser.AUTO, 'game');
     game.state.add('play', PlayState);
