@@ -1,0 +1,1996 @@
+{"frames": [
+
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00006.png",
+	"frame": {"x":1050,"y":1904,"w":137,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":7,"w":137,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00007.png",
+	"frame": {"x":1042,"y":2135,"w":141,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":5,"w":141,"h":126},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00008.png",
+	"frame": {"x":1042,"y":2263,"w":137,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":46,"w":137,"h":85},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00009.png",
+	"frame": {"x":1321,"y":402,"w":137,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":8,"w":137,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00010.png",
+	"frame": {"x":1068,"y":660,"w":137,"h":81},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":50,"w":137,"h":81},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00011.png",
+	"frame": {"x":1182,"y":403,"w":137,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":7,"w":137,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00065.png",
+	"frame": {"x":1049,"y":1642,"w":129,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":129,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00066.png",
+	"frame": {"x":1207,"y":660,"w":123,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":14,"w":123,"h":114},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00067.png",
+	"frame": {"x":1592,"y":1243,"w":121,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":74,"w":121,"h":59},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00068.png",
+	"frame": {"x":1189,"y":2022,"w":121,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":121,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00069.png",
+	"frame": {"x":1585,"y":1697,"w":123,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":123,"h":123},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00070.png",
+	"frame": {"x":1729,"y":532,"w":121,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":121,"h":123},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00107.png",
+	"frame": {"x":1200,"y":1130,"w":128,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":18,"w":128,"h":117},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00108.png",
+	"frame": {"x":1067,"y":1004,"w":130,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":130,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00109.png",
+	"frame": {"x":1189,"y":1379,"w":129,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":129,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00110.png",
+	"frame": {"x":1330,"y":1132,"w":130,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":130,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00111.png",
+	"frame": {"x":1598,"y":406,"w":135,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":135,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack1/Kombat_0000000001_000000001_00112.png",
+	"frame": {"x":1320,"y":1386,"w":130,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":130,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack2/Kombat_0000000001_000000001_00012.png",
+	"frame": {"x":1199,"y":776,"w":131,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":17,"w":131,"h":108},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack2/Kombat_0000000001_000000001_00013.png",
+	"frame": {"x":1044,"y":2030,"w":142,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":27,"w":142,"h":103},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack2/Kombat_0000000001_000000001_00014.png",
+	"frame": {"x":1462,"y":987,"w":128,"h":99},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":26,"w":128,"h":99},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack2/Kombat_0000000001_000000001_00015.png",
+	"frame": {"x":1462,"y":1217,"w":128,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":34,"w":128,"h":100},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack2/Kombat_0000000001_000000001_00016.png",
+	"frame": {"x":1198,"y":886,"w":133,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":13,"w":133,"h":112},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack2/Kombat_0000000001_000000001_00017.png",
+	"frame": {"x":1180,"y":273,"w":139,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":6,"w":139,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack3/Kombat_0000000001_000000001_00018.png",
+	"frame": {"x":1460,"y":660,"w":133,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":6,"w":133,"h":120},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack3/Kombat_0000000001_000000001_00019.png",
+	"frame": {"x":1452,"y":1449,"w":128,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":6,"w":128,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack3/Kombat_0000000001_000000001_00020.png",
+	"frame": {"x":1462,"y":275,"w":137,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":6,"w":137,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack3/Kombat_0000000001_000000001_00021.png",
+	"frame": {"x":901,"y":2004,"w":141,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":6,"w":141,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack3/Kombat_0000000001_000000001_00022.png",
+	"frame": {"x":1321,"y":273,"w":139,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":6,"w":139,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack3/Kombat_0000000001_000000001_00023.png",
+	"frame": {"x":1441,"y":1942,"w":130,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":6,"w":130,"h":121},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack4/Kombat_0000000001_000000001_00024.png",
+	"frame": {"x":1332,"y":659,"w":126,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":6,"w":126,"h":120},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack4/Kombat_0000000001_000000001_00025.png",
+	"frame": {"x":1185,"y":2151,"w":129,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":129,"h":125},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack4/Kombat_0000000001_000000001_00026.png",
+	"frame": {"x":1316,"y":2231,"w":129,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":129,"h":120},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack4/Kombat_0000000001_000000001_00027.png",
+	"frame": {"x":1313,"y":1512,"w":134,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":6,"w":134,"h":120},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack4/Kombat_0000000001_000000001_00028.png",
+	"frame": {"x":1449,"y":1575,"w":131,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":131,"h":120},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "attack/attack4/Kombat_0000000001_000000001_00029.png",
+	"frame": {"x":1313,"y":1634,"w":134,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":6,"w":134,"h":119},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00030.png",
+	"frame": {"x":1449,"y":1697,"w":134,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":6,"w":134,"h":120},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00031.png",
+	"frame": {"x":1582,"y":1822,"w":129,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":6,"w":129,"h":122},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00032.png",
+	"frame": {"x":1449,"y":1819,"w":131,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":131,"h":121},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00033.png",
+	"frame": {"x":1050,"y":1773,"w":130,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":6,"w":130,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00071.png",
+	"frame": {"x":1200,"y":529,"w":127,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00072.png",
+	"frame": {"x":1333,"y":870,"w":127,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00073.png",
+	"frame": {"x":1068,"y":529,"w":130,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":6,"w":130,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00074.png",
+	"frame": {"x":1330,"y":1001,"w":127,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00075.png",
+	"frame": {"x":1185,"y":1505,"w":126,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":126,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block1/Kombat_0000000001_000000001_00076.png",
+	"frame": {"x":1189,"y":1891,"w":121,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":121,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block2/Kombat_0000000001_000000001_00036.png",
+	"frame": {"x":901,"y":2133,"w":139,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":139,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block2/Kombat_0000000001_000000001_00037.png",
+	"frame": {"x":755,"y":2188,"w":144,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":6,"w":144,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block2/Kombat_0000000001_000000001_00038.png",
+	"frame": {"x":1601,"y":275,"w":137,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":137,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block2/Kombat_0000000001_000000001_00039.png",
+	"frame": {"x":902,"y":1779,"w":146,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":6,"w":146,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "block/block2/Kombat_0000000001_000000001_00040.png",
+	"frame": {"x":902,"y":1910,"w":146,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":43,"w":146,"h":92},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00054.png",
+	"frame": {"x":1185,"y":1636,"w":126,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":6,"w":126,"h":123},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00055.png",
+	"frame": {"x":1312,"y":2003,"w":127,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":30,"w":127,"h":96},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00056.png",
+	"frame": {"x":1703,"y":2077,"w":130,"h":112},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":14,"w":130,"h":112},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00057.png",
+	"frame": {"x":901,"y":2264,"w":127,"h":92},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":34,"w":127,"h":92},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00058.png",
+	"frame": {"x":1332,"y":781,"w":122,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":39,"w":122,"h":87},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00059.png",
+	"frame": {"x":1181,"y":2278,"w":128,"h":61},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":63,"w":128,"h":61},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00077.png",
+	"frame": {"x":1462,"y":856,"w":125,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":6,"w":125,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00078.png",
+	"frame": {"x":1703,"y":1946,"w":121,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":121,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00079.png",
+	"frame": {"x":1329,"y":528,"w":129,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":129,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00080.png",
+	"frame": {"x":1574,"y":2065,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00081.png",
+	"frame": {"x":1576,"y":2194,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00082.png",
+	"frame": {"x":1589,"y":856,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00113.png",
+	"frame": {"x":1598,"y":532,"w":129,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":129,"h":123},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00114.png",
+	"frame": {"x":1595,"y":657,"w":129,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":10,"w":129,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00115.png",
+	"frame": {"x":1740,"y":404,"w":129,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":129,"h":123},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00116.png",
+	"frame": {"x":1721,"y":1170,"w":128,"h":104},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":55,"y":31,"w":128,"h":104},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00117.png",
+	"frame": {"x":1460,"y":534,"w":133,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":133,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "hit/hit1/Kombat_0000000001_000000001_00118.png",
+	"frame": {"x":1726,"y":657,"w":129,"h":124},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":53,"y":11,"w":129,"h":124},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00000.png",
+	"frame": {"x":1839,"y":1651,"w":123,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":10,"w":123,"h":121},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00001.png",
+	"frame": {"x":1062,"y":1130,"w":136,"h":106},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":25,"w":136,"h":106},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00002.png",
+	"frame": {"x":1070,"y":273,"w":108,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":22,"w":108,"h":113},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00003.png",
+	"frame": {"x":1311,"y":1761,"w":136,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":24,"w":136,"h":110},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00004.png",
+	"frame": {"x":1068,"y":411,"w":112,"h":105},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":39,"y":26,"w":112,"h":105},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00005.png",
+	"frame": {"x":1835,"y":2136,"w":123,"h":108},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":24,"w":123,"h":108},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00060.png",
+	"frame": {"x":1456,"y":782,"w":128,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":63,"w":128,"h":72},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00061.png",
+	"frame": {"x":1573,"y":1946,"w":128,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":9,"w":128,"h":117},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00062.png",
+	"frame": {"x":1586,"y":783,"w":119,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":64,"w":119,"h":71},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00063.png",
+	"frame": {"x":1841,"y":1527,"w":123,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":123,"h":122},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00064.png",
+	"frame": {"x":1857,"y":657,"w":121,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":121,"h":123},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00101.png",
+	"frame": {"x":1592,"y":985,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00102.png",
+	"frame": {"x":1058,"y":1238,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":129,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00103.png",
+	"frame": {"x":1592,"y":1114,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00104.png",
+	"frame": {"x":1462,"y":1088,"w":128,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":6,"w":128,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00105.png",
+	"frame": {"x":1056,"y":1512,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "idle/idle1/Kombat_0000000001_000000001_00106.png",
+	"frame": {"x":1452,"y":1319,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00089.png",
+	"frame": {"x":1182,"y":1761,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00090.png",
+	"frame": {"x":1312,"y":1873,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00091.png",
+	"frame": {"x":1067,"y":743,"w":130,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":6,"w":130,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00092.png",
+	"frame": {"x":1721,"y":912,"w":126,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":6,"w":126,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00093.png",
+	"frame": {"x":1721,"y":1041,"w":126,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":6,"w":126,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00094.png",
+	"frame": {"x":1058,"y":1368,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":6,"w":129,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00095.png",
+	"frame": {"x":1316,"y":2101,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00096.png",
+	"frame": {"x":1718,"y":783,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00097.png",
+	"frame": {"x":1711,"y":1398,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00098.png",
+	"frame": {"x":1445,"y":2065,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00099.png",
+	"frame": {"x":1199,"y":1000,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":129,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "lose/lose1/Kombat_0000000001_000000001_00100.png",
+	"frame": {"x":1447,"y":2195,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00042.png",
+	"frame": {"x":1582,"y":1579,"w":121,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":7,"w":121,"h":116},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00043.png",
+	"frame": {"x":1740,"y":275,"w":136,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":6,"w":136,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00044.png",
+	"frame": {"x":1460,"y":405,"w":136,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":6,"w":136,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00045.png",
+	"frame": {"x":1711,"y":1527,"w":128,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":36,"y":6,"w":128,"h":122},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00046.png",
+	"frame": {"x":1067,"y":873,"w":129,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":40,"y":6,"w":129,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00047.png",
+	"frame": {"x":1849,"y":1036,"w":127,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":121},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00083.png",
+	"frame": {"x":1849,"y":912,"w":127,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":122},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00084.png",
+	"frame": {"x":1851,"y":1159,"w":126,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":6,"w":126,"h":122},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00085.png",
+	"frame": {"x":1320,"y":1258,"w":130,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":6,"w":130,"h":126},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00086.png",
+	"frame": {"x":1715,"y":1276,"w":129,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":129,"h":120},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00087.png",
+	"frame": {"x":1710,"y":1651,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00088.png",
+	"frame": {"x":1852,"y":529,"w":126,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":6,"w":126,"h":126},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00101.png",
+	"frame": {"x":1713,"y":1780,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00102.png",
+	"frame": {"x":1189,"y":1249,"w":129,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":6,"w":129,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00103.png",
+	"frame": {"x":1847,"y":783,"w":127,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00104.png",
+	"frame": {"x":1705,"y":2191,"w":128,"h":127},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":6,"w":128,"h":127},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00105.png",
+	"frame": {"x":1581,"y":1319,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement1/Kombat_0000000001_000000001_00106.png",
+	"frame": {"x":1582,"y":1449,"w":127,"h":128},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":128},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement2/Kombat_0000000001_000000001_00048.png",
+	"frame": {"x":1846,"y":1283,"w":128,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":47,"y":6,"w":128,"h":120},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement2/Kombat_0000000001_000000001_00049.png",
+	"frame": {"x":1842,"y":1774,"w":127,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":119},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement2/Kombat_0000000001_000000001_00050.png",
+	"frame": {"x":1842,"y":1895,"w":127,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":118},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement2/Kombat_0000000001_000000001_00051.png",
+	"frame": {"x":1835,"y":2015,"w":127,"h":119},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":6,"w":127,"h":119},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement2/Kombat_0000000001_000000001_00052.png",
+	"frame": {"x":1835,"y":2246,"w":127,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":25,"w":127,"h":100},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "movement/movement2/Kombat_0000000001_000000001_00053.png",
+	"frame": {"x":1840,"y":1405,"w":126,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":49,"y":6,"w":126,"h":120},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00120.png",
+	"frame": {"x":154,"y":1085,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00121.png",
+	"frame": {"x":154,"y":1222,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00122.png",
+	"frame": {"x":309,"y":275,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00123.png",
+	"frame": {"x":1,"y":1,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00124.png",
+	"frame": {"x":1,"y":1370,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00125.png",
+	"frame": {"x":306,"y":1359,"w":148,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":0,"w":148,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00126.png",
+	"frame": {"x":305,"y":1085,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00127.png",
+	"frame": {"x":755,"y":1777,"w":145,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":48,"y":0,"w":145,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00128.png",
+	"frame": {"x":463,"y":138,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00129.png",
+	"frame": {"x":1,"y":1507,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00130.png",
+	"frame": {"x":1,"y":1644,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00131.png",
+	"frame": {"x":1,"y":138,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00132.png",
+	"frame": {"x":1,"y":1781,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00133.png",
+	"frame": {"x":155,"y":821,"w":151,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":10,"w":151,"h":125},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00134.png",
+	"frame": {"x":758,"y":1230,"w":148,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":148,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00135.png",
+	"frame": {"x":309,"y":686,"w":151,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":2,"w":151,"h":133},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00136.png",
+	"frame": {"x":912,"y":1096,"w":148,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":0,"w":148,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00137.png",
+	"frame": {"x":771,"y":1,"w":151,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":151,"h":134},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00138.png",
+	"frame": {"x":456,"y":1225,"w":149,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":1,"w":149,"h":134},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00139.png",
+	"frame": {"x":1077,"y":1,"w":151,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":2,"w":151,"h":133},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00140.png",
+	"frame": {"x":155,"y":686,"w":152,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":2,"w":152,"h":133},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00141.png",
+	"frame": {"x":617,"y":1,"w":152,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":1,"w":152,"h":134},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00142.png",
+	"frame": {"x":617,"y":137,"w":149,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":6,"w":149,"h":129},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00143.png",
+	"frame": {"x":155,"y":1,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00144.png",
+	"frame": {"x":606,"y":1634,"w":147,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":147,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00145.png",
+	"frame": {"x":606,"y":1771,"w":147,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":147,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00146.png",
+	"frame": {"x":758,"y":1367,"w":148,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":0,"w":148,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00147.png",
+	"frame": {"x":1230,"y":1,"w":151,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":2,"w":151,"h":133},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00148.png",
+	"frame": {"x":768,"y":137,"w":149,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":3,"w":149,"h":132},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00149.png",
+	"frame": {"x":306,"y":953,"w":150,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":5,"w":150,"h":130},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00150.png",
+	"frame": {"x":308,"y":821,"w":151,"h":130},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":5,"w":151,"h":130},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00151.png",
+	"frame": {"x":1,"y":686,"w":152,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":1,"w":152,"h":134},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00152.png",
+	"frame": {"x":924,"y":1,"w":151,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":1,"w":151,"h":134},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00153.png",
+	"frame": {"x":1840,"y":1,"w":142,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":142,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00154.png",
+	"frame": {"x":1,"y":275,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00155.png",
+	"frame": {"x":155,"y":138,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00156.png",
+	"frame": {"x":305,"y":1222,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00157.png",
+	"frame": {"x":755,"y":1640,"w":146,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":0,"w":146,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00158.png",
+	"frame": {"x":462,"y":686,"w":150,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":1,"w":150,"h":134},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00159.png",
+	"frame": {"x":1,"y":1918,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00160.png",
+	"frame": {"x":907,"y":1507,"w":147,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":2,"w":147,"h":133},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00161.png",
+	"frame": {"x":309,"y":1,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00162.png",
+	"frame": {"x":1,"y":412,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00163.png",
+	"frame": {"x":461,"y":822,"w":151,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":4,"w":151,"h":131},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00164.png",
+	"frame": {"x":1,"y":2055,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00165.png",
+	"frame": {"x":456,"y":1088,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00166.png",
+	"frame": {"x":155,"y":275,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00167.png",
+	"frame": {"x":155,"y":549,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00168.png",
+	"frame": {"x":755,"y":1914,"w":144,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":0,"w":144,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00169.png",
+	"frame": {"x":908,"y":1233,"w":148,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":148,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00170.png",
+	"frame": {"x":153,"y":1495,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00171.png",
+	"frame": {"x":908,"y":1370,"w":148,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":148,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00172.png",
+	"frame": {"x":153,"y":1632,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00173.png",
+	"frame": {"x":309,"y":138,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00174.png",
+	"frame": {"x":616,"y":268,"w":149,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":4,"w":149,"h":131},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00175.png",
+	"frame": {"x":606,"y":1908,"w":147,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":147,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00176.png",
+	"frame": {"x":1383,"y":1,"w":151,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":2,"w":151,"h":133},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00177.png",
+	"frame": {"x":309,"y":412,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00178.png",
+	"frame": {"x":1,"y":2192,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00179.png",
+	"frame": {"x":463,"y":1,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00180.png",
+	"frame": {"x":462,"y":275,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00181.png",
+	"frame": {"x":607,"y":1497,"w":148,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":148,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00182.png",
+	"frame": {"x":1536,"y":1,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00183.png",
+	"frame": {"x":1,"y":822,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00184.png",
+	"frame": {"x":755,"y":2051,"w":144,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":144,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00185.png",
+	"frame": {"x":153,"y":1769,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00186.png",
+	"frame": {"x":606,"y":2045,"w":147,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":0,"w":147,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00187.png",
+	"frame": {"x":308,"y":549,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00188.png",
+	"frame": {"x":462,"y":412,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00189.png",
+	"frame": {"x":606,"y":2182,"w":147,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":46,"y":0,"w":147,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00190.png",
+	"frame": {"x":458,"y":955,"w":150,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":3,"w":150,"h":131},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00191.png",
+	"frame": {"x":1,"y":959,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00192.png",
+	"frame": {"x":153,"y":1906,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00193.png",
+	"frame": {"x":154,"y":1359,"w":150,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":1,"w":150,"h":134},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00194.png",
+	"frame": {"x":903,"y":1642,"w":144,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":144,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00195.png",
+	"frame": {"x":757,"y":1504,"w":148,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":1,"w":148,"h":134},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00196.png",
+	"frame": {"x":461,"y":549,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00197.png",
+	"frame": {"x":1,"y":549,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00198.png",
+	"frame": {"x":1,"y":1096,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00199.png",
+	"frame": {"x":1688,"y":1,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00200.png",
+	"frame": {"x":1,"y":1233,"w":151,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":151,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00201.png",
+	"frame": {"x":154,"y":948,"w":150,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":150,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "start1/Kombat_0000000001_000000001_00202.png",
+	"frame": {"x":155,"y":412,"w":152,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":41,"y":0,"w":152,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00204.png",
+	"frame": {"x":153,"y":2043,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00205.png",
+	"frame": {"x":153,"y":2180,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00206.png",
+	"frame": {"x":456,"y":1361,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00207.png",
+	"frame": {"x":304,"y":1496,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00208.png",
+	"frame": {"x":304,"y":1633,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00209.png",
+	"frame": {"x":304,"y":1770,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00210.png",
+	"frame": {"x":304,"y":1907,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00211.png",
+	"frame": {"x":304,"y":2044,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00212.png",
+	"frame": {"x":455,"y":1498,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00213.png",
+	"frame": {"x":455,"y":1635,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00214.png",
+	"frame": {"x":455,"y":1772,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00215.png",
+	"frame": {"x":455,"y":1909,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00216.png",
+	"frame": {"x":304,"y":2181,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00217.png",
+	"frame": {"x":455,"y":2046,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00218.png",
+	"frame": {"x":455,"y":2183,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00219.png",
+	"frame": {"x":919,"y":137,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00220.png",
+	"frame": {"x":615,"y":401,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00221.png",
+	"frame": {"x":767,"y":271,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00222.png",
+	"frame": {"x":918,"y":274,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00223.png",
+	"frame": {"x":766,"y":408,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00224.png",
+	"frame": {"x":917,"y":411,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00225.png",
+	"frame": {"x":615,"y":538,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00226.png",
+	"frame": {"x":614,"y":675,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00227.png",
+	"frame": {"x":614,"y":812,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00228.png",
+	"frame": {"x":766,"y":545,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00229.png",
+	"frame": {"x":765,"y":682,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00230.png",
+	"frame": {"x":917,"y":548,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00231.png",
+	"frame": {"x":916,"y":685,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00232.png",
+	"frame": {"x":765,"y":819,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00233.png",
+	"frame": {"x":916,"y":822,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00234.png",
+	"frame": {"x":614,"y":949,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00235.png",
+	"frame": {"x":765,"y":956,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00236.png",
+	"frame": {"x":916,"y":959,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00237.png",
+	"frame": {"x":1077,"y":136,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00238.png",
+	"frame": {"x":1228,"y":136,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00239.png",
+	"frame": {"x":1379,"y":136,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00240.png",
+	"frame": {"x":1530,"y":138,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00241.png",
+	"frame": {"x":1681,"y":138,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00242.png",
+	"frame": {"x":1832,"y":138,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00243.png",
+	"frame": {"x":610,"y":1086,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00244.png",
+	"frame": {"x":607,"y":1223,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00245.png",
+	"frame": {"x":607,"y":1360,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+},
+{
+	"filename": "win/win1/Kombat_0000000001_000000001_00246.png",
+	"frame": {"x":761,"y":1093,"w":149,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":42,"y":0,"w":149,"h":135},
+	"sourceSize": {"w":203,"h":135}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "nate_spritesheet.png",
+	"format": "RGBA8888",
+	"size": {"w":1983,"h":2357},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:8c38dabb7920cf387913e35fe8c91fd4:00325626575c4a4104369ff5b18cf4bd:966d9c596609a2823b943c9896e7f49a$"
+}
+}

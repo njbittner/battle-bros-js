@@ -43,6 +43,7 @@ class PlayState {
         // Spritesheets
         // this.game.load.spritesheet('player1', 'images/hero.png', 36,42);
         this.game.load.spritesheet('player', 'spritesheets/lose1.png', 176,179);
+        this.game.load.spritesheet('player', 'spritesheets/spritesheet_win.png', 208,189);
     }
 
     create(){
