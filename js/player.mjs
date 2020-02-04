@@ -4,13 +4,8 @@ class Player extends Phaser.Sprite {
         this.MOVEMENT_SPEED = 200;
         this.JUMP_SPEED = 600;
         this.game.physics.enable(this);
-        this.anchor.set(0.5, 0.5);
+        this.anchor.set(0.5, 1);
         this.body.collideWorldBounds=true;
-
-        // this.animations.add('stop', [0]);
-        // this.animations.add('run', [1,2], 8, true);
-        // this.animations.add('jump', [3]);
-        // this.animations.add('fall', [4]);
     }
 
     move(direction){

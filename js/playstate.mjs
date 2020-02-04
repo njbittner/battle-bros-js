@@ -42,16 +42,18 @@ class PlayState {
         this.game.load.image("background", "backgrounds/grid_bg.png");
         // Spritesheets
         // this.game.load.spritesheet('player1', 'images/hero.png', 36,42);
-        this.game.load.spritesheet('player', 'spritesheets/lose1.png', 176,179);
-        this.game.load.spritesheet('player', 'spritesheets/spritesheet_win.png', 208,189);
+        this.game.load.spritesheet('player1_lose', 'spritesheets/lose1.png', 176,179);
+        this.game.load.spritesheet('player1_win', 'spritesheets/spritesheet_win.png', 208,189);
+        // this.game.load.atlas('player1_sheet', 'spritesheets/nate_spritesheet.png', 'spritesheets/nate_spritesheet.json');
+
     }
 
     create(){
         this.game.add.image(0,0, 'background');
         this.player = new Player(this.game, 300, 200);
         this.game.add.existing(this.player);
-        var lose = this.player.animations.add('lose');
-        this.player.animations.play('lose', 10, true);
+        this._initalize_animations();
+        this.player.animations.play('player1_win');
 
         // Enable gravity
         const GRAVITY = 1200;
@@ -61,6 +63,26 @@ class PlayState {
         //     jump: this.game.add.audio('sfx:jump'),
         // };
         // this._createHud();
+    }
+
+    _initalize_animations(){
+        this.player.loadTexture('player1_win');
+        this.player.animations.add('player1_win');
+
+        this.player.loadTexture('player1_lose');
+        this.player.animations.add('player1_lose');
+        // var movement_1 = {
+        //     key: 'movement_1',
+        //     frames: [
+        //         {key: "player1_sheet", frame: "movement/movement1/Kombat_0000000001_000000001_00042.png"},
+        //         {key: "player1_sheet", frame: "movement/movement1/Kombat_0000000001_000000001_00043.png"},
+        //         {key: "player1_sheet", frame: "movement/movement1/Kombat_0000000001_000000001_00044.png"}
+        //     ],
+        //     framerate: 6,
+        //     repeat: true
+        // };
+        // this.player.animations.create(movement_1);
+
     }
 
     update(){
@@ -88,9 +110,13 @@ class PlayState {
 
     _handleInput(){
         if (this.keys.left.isDown){
+            this.player.loadTexture('player1_win');
+            this.player.play('player1_win');
             this.player.move(-1);
         }
         else if (this.keys.right.isDown){
+            this.player.loadTexture('player1_lose');
+            this.player.play('player1_lose');
             this.player.move(1);
         }
         else {
