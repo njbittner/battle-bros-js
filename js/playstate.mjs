@@ -39,25 +39,45 @@ class PlayState {
     }
 
     preload(){
+        /*
+        game.load invokes the PhaserLoader which stores data in a local cache for later reading. You
+        do this ahead of time so that when the game starts you have everything already on the client, giving
+        the user a smooth experience./gr
+
+        So we are just loading assets into the cache, they are not being used by the game until the "create" step.
+        */
+        // Load static textures
         this.game.load.image("background", "backgrounds/grid_bg.png");
-        // Spritesheets
-        // this.game.load.spritesheet('player1', 'images/hero.png', 36,42);
+        // Load Spritesheets
         this.game.load.spritesheet('player1_lose', 'spritesheets/lose1.png', 176,179);
         this.game.load.spritesheet('player1_win', 'spritesheets/spritesheet_win.png', 208,189);
         // this.game.load.atlas('player1_sheet', 'spritesheets/nate_spritesheet.png', 'spritesheets/nate_spritesheet.json');
-
     }
 
     create(){
-        this.game.add.image(0,0, 'background');
+        /*
+        Read assets from cache and apply them to the Game by creating World Objects, which will be inside the game's
+        World class. The World class is a container for game objects
+
+        The "add" method means "create a game object with the GameObjectFactory and add it to this game's World container"
+        */
+        this.game.add.image(0, 0, 'background');
+        // Create a sprite world object explicity (not using the GameObjectFactory?)
         this.player = new Player(this.game, 300, 200);
+        // Since we made the sprite (which inherits from GameObject) ourselves, we have to add it as an "existing" object
+        // to the game's world contaienr.
         this.game.add.existing(this.player);
-        this._initalize_animations();
-        this.player.animations.play('player1_win');
+        this._initalize_animations(); // TODO: move this to the Player class
+        // player.animations is an AnimationManger obejct. AnimationManagers contain Animation objects.
+        // the key passed to "animations.play" must have been registered (added) to the animation manager earlier
+        // with the "animations.add('key')" function.
+        // Note that if an animation is already playing, calling "animations.play" does not make it restart.
+        // If you ever want to restart the animation, you have to do it directly with the animation Object itself.
+        this.player.animations.play('player1_win'); // play is a Sprite
 
         // Enable gravity
         const GRAVITY = 1200;
-        this.game.physics.arcade.gravity.y = GRAVITY;
+        // this.game.physics.arcade.gravity.y = GRAVITY;
 
         // this.sfx = {
         //     jump: this.game.add.audio('sfx:jump'),
@@ -109,20 +129,23 @@ class PlayState {
     // }
 
     _handleInput(){
+        let direction = 0;
+        let key = '';
         if (this.keys.left.isDown){
-            this.player.loadTexture('player1_win');
-            this.player.play('player1_win');
-            this.player.move(-1);
+            key = 'player1_win';
+            direction = -1;
         }
         else if (this.keys.right.isDown){
-            this.player.loadTexture('player1_lose');
-            this.player.play('player1_lose');
-            this.player.move(1);
+            key = 'player1_lose';
+            direction = 1;
         }
-        else {
-            this.player.move(0);
+        this.player.move(direction);
+        if (key != ''){
+            if (this.player.texture.baseTexture != this.cache.getBaseTexture(key)){
+                this.player.loadTexture(key);
+                this.player.play(key);
+            }
         }
     }
-
 }
 export {PlayState as PlayState};

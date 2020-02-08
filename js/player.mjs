@@ -1,10 +1,19 @@
 class Player extends Phaser.Sprite {
+    /*
+    Sprites are an essential class/concept in Phser.
+    A sprite is a type containing:
+        1. Coordinates
+        2. A texture
+        3. A 'body' attribute that enables physics and motion
+        4. An InputHandler attribute via '.input'
+        5. An AnimationManager attribute, '.animations'
+    */
     constructor(game, x, y) {
         super(game, x, y, 'player');
+        this.game.physics.enable(this); // create body for sprite
+        this.anchor.set(0.5, 1); // Change sprite rendering info
         this.MOVEMENT_SPEED = 200;
         this.JUMP_SPEED = 600;
-        this.game.physics.enable(this);
-        this.anchor.set(0.5, 1);
         this.body.collideWorldBounds=true;
     }
 
@@ -14,7 +23,6 @@ class Player extends Phaser.Sprite {
             this.scale.x = -1;
         }
         else if (this.body.velocity.x > 0){
-            console.log("MK");
             this.scale.x = 1;
        }
     }
@@ -25,7 +33,7 @@ class Player extends Phaser.Sprite {
         let canJump = true;
 
         if (canJump){
-            this.body.velocity.y = - this.JUMP_SPEED;
+            this.body.velocity.y = -this.JUMP_SPEED;
         }
         return canJump;
     }
