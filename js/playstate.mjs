@@ -55,15 +55,18 @@ class PlayState {
     }
 
     create(){
+        this.game.physics.startSystem(Phaser.Physics.ARCADE);
+
         /*
         Read assets from cache and apply them to the Game by creating World Objects, which will be inside the game's
         World class. The World class is a container for game objects
 
         The "add" method means "create a game object with the GameObjectFactory and add it to this game's World container"
         */
-        this.game.add.image(0, 0, 'background');
+        // this.game.world.setBounds(100, 100, 400, 400)
+        //this.game.add.image(0, 0, 'background');
         // Create a sprite world object explicity (not using the GameObjectFactory?)
-        this.player = new Player(this.game, 300, 200);
+        this.player = new Player(this.game, 200, 200);
         // Since we made the sprite (which inherits from GameObject) ourselves, we have to add it as an "existing" object
         // to the game's world contaienr.
         this.game.add.existing(this.player);
@@ -76,13 +79,27 @@ class PlayState {
         this.player.animations.play('player1_win'); // play is a Sprite
 
         // Enable gravity
-        const GRAVITY = 1200;
-        // this.game.physics.arcade.gravity.y = GRAVITY;
+        const GRAVITY = 1000;
+        this.game.physics.arcade.gravity.y = GRAVITY;
 
         // this.sfx = {
         //     jump: this.game.add.audio('sfx:jump'),
         // };
         // this._createHud();
+        this.floor = this.game.add.sprite(0, 400, 'background');
+        //floor.anchor.set(0, 0)
+        this.game.physics.enable(this.floor);
+        this.floor.body.immovable = true;
+        this.floor.body.allowGravity = false;
+        //floor.visible = false;
+    }
+
+    update(){
+        this._handleCollisions();
+    }
+
+    _handleCollisions(){
+        this.game.physics.arcade.collide(this.player, this.floor);
     }
 
     _initalize_animations(){
@@ -90,7 +107,7 @@ class PlayState {
         this.player.animations.add('player1_win');
 
         this.player.loadTexture('player1_lose');
-        this.player.animations.add('player1_lose');
+        this.player.animations.add('player1_lose', frames=[...Array(3).keys()]);;
         // var movement_1 = {
         //     key: 'movement_1',
         //     frames: [
@@ -143,7 +160,7 @@ class PlayState {
         if (key != ''){
             if (this.player.texture.baseTexture != this.cache.getBaseTexture(key)){
                 this.player.loadTexture(key);
-                this.player.play(key);
+                this.player.play(key, 3, true);
             }
         }
     }

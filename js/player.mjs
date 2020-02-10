@@ -9,9 +9,9 @@ class Player extends Phaser.Sprite {
         5. An AnimationManager attribute, '.animations'
     */
     constructor(game, x, y) {
-        super(game, x, y, 'player');
+        super(game, x, y);
         this.game.physics.enable(this); // create body for sprite
-        this.anchor.set(0.5, 1); // Change sprite rendering info
+        this.anchor.set(0.0, 0.0); // Change sprite rendering info
         this.MOVEMENT_SPEED = 200;
         this.JUMP_SPEED = 600;
         this.body.collideWorldBounds=true;
@@ -28,9 +28,7 @@ class Player extends Phaser.Sprite {
     }
 
     jump(){
-        // let canJump = this.body.touching.down;
-        console.log("jumping");
-        let canJump = true;
+        let canJump = this.body.touching.down;
 
         if (canJump){
             this.body.velocity.y = -this.JUMP_SPEED;
