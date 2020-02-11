@@ -14,7 +14,6 @@ class Player extends Phaser.Sprite {
         this.anchor.set(0.0, 0.0); // Change sprite rendering info
         this.MOVEMENT_SPEED = 200;
         this.JUMP_SPEED = 600;
-        this.body.collideWorldBounds=true;
     }
 
     move(direction){

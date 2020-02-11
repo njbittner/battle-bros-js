@@ -70,6 +70,7 @@ class PlayState {
         // Since we made the sprite (which inherits from GameObject) ourselves, we have to add it as an "existing" object
         // to the game's world contaienr.
         this.game.add.existing(this.player);
+        this.game.physics.enable(this.player);
         this._initalize_animations(); // TODO: move this to the Player class
         // player.animations is an AnimationManger obejct. AnimationManagers contain Animation objects.
         // the key passed to "animations.play" must have been registered (added) to the animation manager earlier
