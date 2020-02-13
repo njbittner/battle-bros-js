@@ -92,7 +92,7 @@ class PlayState {
         this.game.physics.enable(this.floor);
         this.floor.body.immovable = true;
         this.floor.body.allowGravity = false;
-        //floor.visible = false;
+        this.floor.visible = false;
     }
 
     update(){
