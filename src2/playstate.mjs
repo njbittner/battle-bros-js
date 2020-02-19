@@ -1,4 +1,4 @@
-import {Player} from './player.mjs';
+import {Player} from '../src/sprites/Player.js';
 
 class PlayState {
     init(data){
