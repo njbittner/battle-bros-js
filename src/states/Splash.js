@@ -13,7 +13,8 @@ export default class extends Phaser.State {
     //
     // load your assets
     //
-    this.load.image('player', 'spritesheets/lose1.png')
+    // this.load.image('player', 'spritesheets/lose1.png')
+    this.load.image('player', 'images/coin_icon.png')
   }
 
   create () {

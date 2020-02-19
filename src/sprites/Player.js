@@ -7,9 +7,10 @@ export default class extends Phaser.Sprite {
     this.game.physics.enable(this)
     this.MOVEMENT_SPEED = 200
     this.JUMP_SPEED = 600
+    this.body.collideWorldBounds = true
   }
 
-  _move (direction) {
+  move (direction) {
     this.body.velocity.x = direction * this.MOVEMENT_SPEED
     if (this.body.velocity.x < 0) {
       this.scale.x = -1
@@ -18,8 +19,9 @@ export default class extends Phaser.Sprite {
     }
   }
 
-  _jump () {
-    let canJump = this.body.touching.down
+  jump () {
+    //let canJump = this.body.touching.down
+    let canJump = true;
     if (canJump) {
       this.body.velocity.y = -this.JUMP_SPEED
     }
