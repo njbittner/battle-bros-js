@@ -31,12 +31,6 @@ export default class extends Phaser.State {
     banner.padding.set(10, 16)
     banner.anchor.setTo(0.5)
 
-    this.player = new Player({
-      game: this.game,
-      x: this.world.centerX,
-      y: this.world.centerY,
-      asset: 'player'
-    })
 
     const GRAVITY = 1000
     this.game.physics.arcade.gravity.y = GRAVITY
