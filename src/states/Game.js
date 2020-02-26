@@ -18,7 +18,30 @@ export default class extends Phaser.State {
       }
     }, this)
   }
-  preload () { }
+  preload () {
+    this.player = new Player({
+      game: this.game,
+      x: this.world.centerX,
+      y: this.world.centerY,
+      asset: 'player1_sheet'
+    })
+    this._loadPlayerAnimationAtlas()
+  }
+
+  _loadPlayerAnimationAtlas () {
+    this.player.animations.add('swim', Phaser.Animation.generateFrameNames('attack/attack1/Kombat_0000000001_000000001_00006.png"', 7, 9, 'png'), 30, true);
+
+    // this.player.animations.add(
+    //   'move',
+    //   [
+    //     {key: 'player1_sheet', frame: 'movement/movement1/Kombat_0000000001_000000001_00042.png'},
+    //     {key: 'player1_sheet', frame: 'movement/movement1/Kombat_0000000001_000000001_00043.png'},
+    //     {key: 'player1_sheet', frame: 'movement/movement1/Kombat_0000000001_000000001_00044.png'}
+    //   ],
+    //   6,
+    //   true
+    // )
+  }
 
   create () {
     const bannerText = 'Battle Bros'
@@ -31,11 +54,10 @@ export default class extends Phaser.State {
     banner.padding.set(10, 16)
     banner.anchor.setTo(0.5)
 
-
-    const GRAVITY = 1000
-    this.game.physics.arcade.gravity.y = GRAVITY
+    this.game.physics.arcade.gravity.y = 1000
 
     this.game.add.existing(this.player)
+    this.player.animations.play('swim')
   }
 
   update () {
