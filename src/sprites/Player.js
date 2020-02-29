@@ -28,6 +28,6 @@ export default class extends Phaser.Sprite {
     return canJump
   }
   update () {
-    this.angle += 1
+    // this.angle += 1
   }
 }

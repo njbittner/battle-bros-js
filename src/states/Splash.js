@@ -14,7 +14,7 @@ export default class extends Phaser.State {
     //
     // load your assets
     //
-    this.load.image('player', 'spritesheets/lose1.png')
+    // this.load.image('player', 'spritesheets/lose1.png')
     this.load.atlas('player1_sheet', 'spritesheets/nate_spritesheet.png', 'spritesheets/nate_spritesheet.json')
   }
 

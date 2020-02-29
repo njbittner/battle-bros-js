@@ -7,7 +7,8 @@ export default class extends Phaser.State {
     this.keys = this.game.input.keyboard.addKeys({
       left: Phaser.KeyCode.LEFT,
       right: Phaser.KeyCode.RIGHT,
-      up: Phaser.KeyCode.UP
+      up: Phaser.KeyCode.UP,
+      attack: Phaser.KeyCode.O
     })
 
     this.keys.up.onDown.add(function () {
@@ -18,6 +19,7 @@ export default class extends Phaser.State {
       }
     }, this)
   }
+
   preload () {
     this.player = new Player({
       game: this.game,
@@ -29,8 +31,7 @@ export default class extends Phaser.State {
   }
 
   _loadPlayerAnimationAtlas () {
-    this.player.animations.add('swim', Phaser.Animation.generateFrameNames('attack/attack1/Kombat_0000000001_000000001_00006.png"', 7, 9, 'png'), 30, true);
-
+    this.player.animations.add('attack', Phaser.Animation.generateFrameNames('attack/attack1/Kombat_0000000001_000000001_0000', 6, 12, '.png'), 12, false)
     // this.player.animations.add(
     //   'move',
     //   [
@@ -57,7 +58,9 @@ export default class extends Phaser.State {
     this.game.physics.arcade.gravity.y = 1000
 
     this.game.add.existing(this.player)
-    this.player.animations.play('swim')
+    // this.test = this.game.add.sprite(300, 200, 'player1_sheet')
+    // this.test.animations.add('swim', Phaser.Animation.generateFrameNames('attack/attack1/Kombat_0000000001_000000001_0000', 6, 12, '.png'), 12, false)
+    this.player.animations.play('attack')
   }
 
   update () {
@@ -65,9 +68,9 @@ export default class extends Phaser.State {
   }
 
   render () {
-    if (__DEV__) {
-      this.game.debug.spriteInfo(this.player, 32, 32)
-    }
+    // if (__DEV__) {
+    //   // this.game.debug.spriteInfo(this.player, 32, 32)
+    // }
   }
 
   _handleInput () {
@@ -76,6 +79,9 @@ export default class extends Phaser.State {
       direction = -1
     } else if (this.keys.right.isDown) {
       direction = 1
+    }
+    if (this.keys.attack.isDown){
+      this.player.animations.play('attack')
     }
     this.player.move(direction)
   }
